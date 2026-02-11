@@ -6,7 +6,7 @@ Dosen Pengampu: Erika Maulidiya S. Kom., M. Kom.
 
 Deskripsi Singkat
 
-Aplikasi Android sederhana menggunakan Kotlin dan XML yang memiliki fitur:
+Aplikasi Android sederhana yang menggunakan Kotlin dan XML dengan fitur:
 1. Input nama pengguna.
 2. Tombol "Sapa" untuk mengubah teks sapaan.
 3. Switch untuk mengubah tema aplikasi (Mode Gelap/Terang).
