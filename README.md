@@ -1,7 +1,11 @@
 Tugas 1 - Hello UI Android
+
 Nama: Andre Cristian Nathanael  
+
 NIM: 2410817210006  
+
 Mata Kuliah: Pemrograman Mobile
+
 Dosen Pengampu: Erika Maulidiya S. Kom., M. Kom.
 
 Deskripsi Singkat
