@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tugas1helloui</string>
+    <string name="lbl_nama">Masukkan Nama Anda</string>
+    <string name="btn_sapa">Sapa</string>
+    <string name="mode_gelap">Mode Gelap</string>
+    <string name="hello_world">Hello, World!</string>
+</resources>
