@@ -9,6 +9,7 @@ Aplikasi Android sederhana menggunakan Kotlin dan XML yang memiliki fitur:
 1. Input nama pengguna.
 2. Tombol "Sapa" untuk mengubah teks sapaan.
 3. Switch untuk mengubah tema aplikasi (Mode Gelap/Terang).
+
 Cara Menjalankan Project
 1. Clone atau download repositoriy ini.
 2. Buka Android Studio.
