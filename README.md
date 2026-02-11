@@ -8,7 +8,6 @@ Mata Kuliah: Pemrograman Mobile
 
 Dosen Pengampu: Erika Maulidiya S. Kom., M. Kom.
 
-
 Deskripsi Singkat
 
 Aplikasi Android sederhana yang menggunakan Kotlin dan XML dengan fitur:
